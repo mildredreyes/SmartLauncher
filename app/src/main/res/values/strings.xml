@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Launcher</string>
+    <string name="search_hint">Search apps…</string>
+    <string name="loading">Loading apps…</string>
+    <string name="launcher_title">AI-ranked apps</string>
+    <string name="launcher_count">%1$d apps</string>
+    <string name="filter_all">All</string>
+    <string name="permission_title">Usage Access Needed</string>
+    <string name="permission_body">SmartLauncher uses app usage statistics to rank your apps intelligently. Please grant Usage Access in Settings.</string>
+    <string name="permission_dialog_title">Permission needed</string>
+    <string name="permission_dialog_body">SmartLauncher uses app usage data to rank your apps by how often you use them.\n\nTap Open Settings to grant Usage access to SmartLauncher.</string>
+    <string name="btn_grant">Open Settings</string>
+    <string name="btn_skip">Skip for now</string>
+    <string name="cannot_launch_app">Cannot launch %1$s</string>
+    <string name="app_icon_description">App icon</string>
+    <string name="wallet_required_title">Connect your wallet</string>
+    <string name="wallet_required_message">Connect a Solana wallet before entering SmartLauncher.</string>
+    <string name="connect_wallet">Connect Wallet</string>
+    <string name="wallet_connecting">Waiting for wallet connection…</string>
+    <string name="wallet_connecting_named">Opening %1$s…</string>
+    <string name="wallet_connected">Wallet connected: %1$s</string>
+    <string name="wallet_not_found">No compatible Solana wallet was found on this device.</string>
+    <string name="wallet_connect_failed">Wallet connection failed: %1$s</string>
+    <string name="select_wallet_title">Select a wallet</string>
+</resources>
