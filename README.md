@@ -47,6 +47,13 @@ rankScore = (usageScore × 0.70) + (category.basePriority × 0.30)
 
 `usageScore` is log-normalised foreground time over the last 30 days so that the single most-used app does not crush everything else.
 
+## Project Documents
+
+- [Copyright](copyright.md)
+- [License](license.md)
+- [Privacy Policy](privacy-policy.md)
+- [Terms and Conditions](terms-and-conditions.md)
+
 ## Setup & Build
 
 ### Requirements
